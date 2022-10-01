@@ -1,7 +1,7 @@
 # todo_list
 
-- remove list
-+ add item
+- (-)remove list
++ (+)add item
 
 A new Flutter project.
 
