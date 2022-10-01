@@ -1,5 +1,8 @@
 # todo_list
 
+- remove list
++ add item
+
 A new Flutter project.
 
 ## Getting Started
